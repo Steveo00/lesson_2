@@ -1,0 +1,13 @@
+START
+
+Given the user provides two integers, print their sum.
+
+GET first number from user
+SET number1 = first number from user
+GET second number from user
+SET number2 = second number from user
+
+SET sum = number1 + number2
+PRINT sum
+
+END

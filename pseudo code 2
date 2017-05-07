@@ -1,0 +1,15 @@
+START
+
+a method that takes an array of strings, and returns a string that is all those strings concatenated together
+
+SET iterator = 1
+SET arr_of_strings = the provided array of strings
+SET new_string = ""
+
+WHILE iterator < length of arr_of_strings
+  new_string = new_string + string at position iterator in the arr_of_strings
+  iterator = iterator + 1
+
+PRINT new_string
+
+END

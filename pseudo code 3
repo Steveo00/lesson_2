@@ -1,0 +1,18 @@
+START
+
+a method that takes an array of integers, and returns a new array with every other element
+
+SET iterator = 1
+SET original_array = array of integers
+SET new_array to an empty array
+
+WHILE iterator < length of original_array
+  IF iterator is even
+    add the integer within original_array at position of iterator to new_array
+  ELSE go the the next iteration
+
+  iterator = iterator + 1
+
+PRINT new_array
+
+END
