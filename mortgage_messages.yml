@@ -1,0 +1,11 @@
+# mortgage_messages.yml
+
+welcome: "Welcome to the Mortgage Payment Calculator."
+loan_amount: "Please enter the principal amount of the loan:"
+loan_amount_validate: "Please enter a number that is greater than zero:"
+interest_rate: "Please enter the annual interest rate:"
+interest_rate_validate: "Please enter a non-negative number such as 5.6:"
+loan_term: "Please enter an integer for the loan term in years:"
+loan_term_validate: "Please enter a non_negative number without decimals:"
+another_calculation: "Type Y if you would like to perform another calculation:"
+farewell: "See you next time. Goodbye."
